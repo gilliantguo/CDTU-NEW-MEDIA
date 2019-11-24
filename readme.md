@@ -6,3 +6,4 @@
 <p>//上面是说我们学校的</p>
 <p>//如果有社会人士刚好看到，又刚好想level up一下，非常欢迎哈！</p>
 <h3>注：因为部分数据涉及隐私，故htm页内部分为死链</h3>
+<h4>注2，引用css来源开源地址https://github.com/elrumordelaluz/csshake  </h4>
